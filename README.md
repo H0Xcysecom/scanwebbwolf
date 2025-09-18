@@ -8,7 +8,7 @@
 
 ### Fungsinya untuk mengumpulkan informasi penting tentang sebuah website (security reconnaissance / information gathering).
 
-### cara install
+> ### cara install
 
 $ pkg update && pkg upgrade 
 
@@ -40,7 +40,7 @@ $ bash scanwebbwolf.py
 
 🚪 Admin Panel Finder  cari path umum admin/login (contoh: /admin, /wp-admin)
 
-🏷️ Server Info → Server banner & X-Powered-By header
+🏷️ Server Info  Server banner & X-Powered-By header
 
 ⚙️ Technology Detection  deteksi CMS & framework (WordPress, Drupal, Joomla, Laravel, PHP, ASP.NET, Apache, Nginx, Express.js)
 
