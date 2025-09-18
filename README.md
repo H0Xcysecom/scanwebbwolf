@@ -14,17 +14,17 @@
 
 > $ pkg update && pkg upgrade 
 
-$ pkg install git
+> $ pkg install git
 
-$ pkg install python
+> $ pkg install python
 
-$ gitu clone https://github.com/H0Xcysecom/scanwebbwolf.git
+> $ gitu clone https://github.com/H0Xcysecom/scanwebbwolf.git
 
-$ cd scanwebbwolf
+> $ cd scanwebbwolf
 
-$ ls 
+> $ ls 
 
-$ bash scanwebbwolf.py
+> $ bash scanwebbwolf.py
 
 ---
 
