@@ -8,9 +8,11 @@
 
 ### Fungsinya untuk mengumpulkan informasi penting tentang sebuah website (security reconnaissance / information gathering).
 
-> ### cara install
+ ### cara install
 
-$ pkg update && pkg upgrade 
+---
+
+> $ pkg update && pkg upgrade 
 
 $ pkg install git
 
