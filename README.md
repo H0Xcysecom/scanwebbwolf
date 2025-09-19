@@ -18,7 +18,7 @@
 
 > $ pkg install python
 
-> $ gitu clone https://github.com/H0Xcysecom/scanwebbwolf.git
+> $ git clone https://github.com/H0Xcysecom/scanwebbwolf.git
 
 > $ cd scanwebbwolf
 
