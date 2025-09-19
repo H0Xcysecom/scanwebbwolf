@@ -24,7 +24,7 @@
 
 > $ ls 
 
-> $ bash scanwebbwolf.py
+> $ python scanwebbwolf.py
 
 ---
 
