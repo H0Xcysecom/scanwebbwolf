@@ -28,27 +28,27 @@
 
 ---
 
-### ✨ Fitur ScanWeb Wolf
+### 🔥Fitur
 
-🌐 IP & ASN Lookup  cek alamat IP, organisasi & ASN dari domain
+✅ IP & ASN Lookup  cek alamat IP, organisasi & ASN dari domain
 
-📡 DNS Records Check  tampilkan A Record & MX Record
+✅ DNS Records Check  tampilkan A Record & MX Record
 
-🔐 SSL Certificate Info  valid from, valid until, issuer
+✅ SSL Certificate Info  valid from, valid until, issuer
 
-🛡️ Security Headers Check  HSTS, CSP, X-Frame-Options, dll.
+✅ Security Headers Check  HSTS, CSP, X-Frame-Options, dll.
 
-📑 WHOIS Data  registrar, tanggal pembuatan & expired domain
+✅ WHOIS Data  registrar, tanggal pembuatan & expired domain
 
-🚪 Admin Panel Finder  cari path umum admin/login (contoh: /admin, /wp-admin)
+✅ Admin Panel Finder  cari path umum admin/login (contoh: /admin, /wp-admin)
 
-🏷️ Server Info  Server banner & X-Powered-By header
+✅ Server Info  Server banner & X-Powered-By header
 
-⚙️ Technology Detection  deteksi CMS & framework (WordPress, Drupal, Joomla, Laravel, PHP, ASP.NET, Apache, Nginx, Express.js)
+✅ Technology Detection  deteksi CMS & framework (WordPress, Drupal, Joomla, Laravel, PHP, ASP.NET, Apache, Nginx, Express.js)
 
-📍 Server Location  kota & negara dari IP server
+✅ Server Location  kota & negara dari IP server
 
-📊 Laporan Interaktif  hasil scan tampil dalam tabel, panel, progress bar
+✅ Laporan Interaktif  hasil scan tampil dalam tabel, panel, progress bar
 
 
 # my contact
